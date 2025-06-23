@@ -5,6 +5,11 @@ It combines Exploratory Data Analysis (EDA) with clear visualizations to extract
 Visualization: Plotly , Matplotlib, Seaborn  
 Jupyter Notebook: For step-by-step analysis.
 
+
+![download](https://github.com/user-attachments/assets/38820a35-4ed2-4c41-9f07-a807544bc3b1)
+
+
+
 # Analysis Highlights:
 1.Monthly Sales Trends :
 Identified peak and low-performing months using line charts.
